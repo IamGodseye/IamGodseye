@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/ajay-ghiyad-229a571a5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ajay-ghiyad-229a571a5" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/gods_eye" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gods_eye" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gods_eye" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="gods_eye" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/<gods_eye>" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="<gods_eye>" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/gods_eye/practice/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="<gods_eye>" height="30" width="40" /></a>
 </p>
 
 
