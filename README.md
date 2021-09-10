@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data structures and Algorithms with some frontend developement also**
 
-- 💬 Ask me about **C++,HTML5,CSS3**
+- 💬 Ask me about **C++, MERN Stack**
 
 - 📫 How to reach me **ajayghiyad4600@gmail.com**
 
