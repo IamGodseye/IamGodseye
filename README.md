@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamgodseye" alt="iamgodseye" /></a> </p>
 
-- 🌱 I’m currently learning **Data structures and Algorithms with some frontend developement also**
+- 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **C++, MERN Stack**
+- 💬 Ask me about **C++, ReactJS**
 
 - 📫 How to reach me **ajayghiyad4600@gmail.com**
 
