@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajay Ghiyad</h1>
-<h3 align="center">Self-motivated 2nd-year computer engineering student with keen interest in coding</h3>
+<h3 align="center">Self-motivated 3rd-year computer engineering student with keen interest in coding</h3>
 <img align="right" alt="Coding"  src="https://cdn.dribbble.com/users/1068771/screenshots/14247776/downloads/3.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamgodseye&label=Profile%20views&color=0e75b6&style=flat" alt="iamgodseye" /> </p>
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **C++, ReactJS**
+- 💬 Ask me about **C++, Javascript, NodeJS, ReactJS**
 
 - 📫 How to reach me **ajayghiyad4600@gmail.com**
 
